@@ -1,0 +1,31 @@
+Container IsReady  payment invoice integration prod
+Container IsReady  payment pay integration prod
+container isready order aiagent python api prod
+container isready order submit import cc integration prod
+Container IsReady payment bank domain prod
+Container IsReady payment domain prod
+Container IsReady payment pay domain prod
+kpow_connect_connector_task_failed_state_alerts_ama-panamax-prod_dbz_ecom_alerts
+kpow_connect_connector_task_failed_state_alerts_cc-panamax-prod_dbz_ecom_alerts
+kpow_connect_connector_task_failed_state_payments_ama-panamax-prod_dbz_ecom_payment
+kpow_connect_connector_task_failed_state_payments_cc-panamax-prod_dbz_ecom_payment
+kpow_connect_connector_task_pause_state_alerts_ama-panamax-prod_dbz_ecom_alerts
+kpow_connect_connector_task_pause_state_alerts_cc-panamax-prod_dbz_ecom_alerts
+kpow_connect_connector_task_pause_state_payments_ama-panamax-prod_dbz_ecom_payment
+kpow_connect_connector_task_pause_state_payments_cc-panamax-prod_dbz_ecom_payment
+kpow-connect-connector-task-failed-state-dsr-ama-panamax-prod
+kpow-connect-connector-task-failed-state-dsr-cc-panamax-prod
+kpow-connect-connector-task-failed-state-list-ama-panamax-prod
+kpow-connect-connector-task-failed-state-list-cc-panamax-prod
+kpow-connect-connector-task-failed-state-order-ama-panamax-prod
+kpow-connect-connector-task-failed-state-order-cc-panamax-prod
+kpow-connect-connector-task-failed-state-pime-ama-panamax-prod
+kpow-connect-connector-task-failed-state-pime-cc-panamax-prod
+kpow-connect-connector-task-pause-state-dsr-ama-panamax-prod
+kpow-connect-connector-task-pause-state-dsr-cc-panamax-prod
+kpow-connect-connector-task-pause-state-list-ama-panamax-prod
+kpow-connect-connector-task-pause-state-list-cc-panamax-prod
+kpow-connect-connector-task-pause-state-order-ama-panamax-prod
+kpow-connect-connector-task-pause-state-order-cc-panamax-prod
+kpow-connect-connector-task-pause-state-pime-ama-panamax-prod
+kpow-connect-connector-task-pause-state-pime-cc-panamax-prod
